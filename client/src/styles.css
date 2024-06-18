@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(https://th.bing.com/th/id/R.dc378c28921a28de71f38b7d9548bbf9?rik=suky34rJU3kBuw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-cNLzKZkNmEM%2fUo1N2snq4xI%2fAAAAAAAAAiU%2fu2m6-7s6s64%2fs1600%2ffree-website-backgrounds1.jpg&ehk=rCWWW%2bgje2vhpJPo0ZgTXLzC2p5vJhVwaxqBVnImC3o%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
